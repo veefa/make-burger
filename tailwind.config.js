@@ -11,6 +11,7 @@ export default {
         light: "#F5F5F5",
       },
       fontFamily: {
+        apricot: ['Apricot', 'cursive'],
         display: ["Inter", "ui-sans-serif", "system-ui"],
         heading: ["Inter", "ui-sans-serif"],
       },

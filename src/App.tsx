@@ -1,13 +1,16 @@
 //import { useState } from 'react'
-
+import React from 'react'
 import './index.css'
+import Home from './components/pages/Home'
 
-function App() {
+
+const App: React.FC = () => {
   
 
   return (
     <div>
-      HELLO
+      <Home />
+
     </div>
   )
 }

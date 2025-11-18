@@ -1,3 +1,8 @@
 @import "tailwindcss";
 
-
+@font-face {
+  font-family: 'Apricot';
+  src: url('./assets/fonts/Apricot.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
