@@ -13,3 +13,11 @@ function App() {
 }
 
 export default App
+/*src/
+  components/
+    Navbar.tsx
+    Hero.tsx
+    BrandStamp.tsx
+  pages/
+    Home.tsx
+  App.tsx*/
