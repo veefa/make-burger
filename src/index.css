@@ -1,8 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
 @import "tailwindcss";
 
-@font-face {
-  font-family: 'Apricot';
-  src: url('./assets/fonts/Apricot.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+

@@ -12,21 +12,11 @@ const Home: React.FC = () => {
 
       {/* Our Specials Section */}
       <section className="py-20 bg-gray-50">
-        <h2 className="text-4xl md:text-5xl font-bold text-center mb-12">
+        <h2 className="text-4xl md:text-5xl font-bold font-apricot text-center mb-12">
           Our SPECIALS
         </h2>
-{/*
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-4">
-          <div className="overflow-hidden rounded-lg shadow-lg hover:scale-105 transform transition">
-            <img src={special1} alt="Special 1" className="w-full h-64 object-cover"/>
-          </div>
-          <div className="overflow-hidden rounded-lg shadow-lg hover:scale-105 transform transition">
-            <img src={special2} alt="Special 2" className="w-full h-64 object-cover"/>
-          </div>
-          <div className="overflow-hidden rounded-lg shadow-lg hover:scale-105 transform transition">
-            <img src={special3} alt="Special 3" className="w-full h-64 object-cover"/>
-          </div>
-        </div>*/}
+
+      
       </section>
 
       {/* Review Section */}
